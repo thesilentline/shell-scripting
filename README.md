@@ -1,2 +1,2 @@
 # shell-scripting
-this repo has scripts to automate tasks using terminal
+this repository has collection of scripts that have been created to automate various tasks using the command line or terminal.
