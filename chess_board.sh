@@ -1,0 +1,12 @@
+#/bin/bash/
+i=1
+t=4
+
+while [ "$i" -le "$t" ]
+do
+    
+    printf '\xe2\x96\x88 \xe2\x96\x88 \xe2\x96\x88 \xe2\x96\x88 \n'
+    printf ' \xe2\x96\x88 \xe2\x96\x88 \xe2\x96\x88 \xe2\x96\x88\n'
+   
+    i=$((i+1))
+done
